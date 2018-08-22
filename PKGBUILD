@@ -1,4 +1,3 @@
-#spotify-client_1.0.88.353.g15c26ea1-14_amd64.deb
 # Maintainer: Ashley Whetter <(firstname) @ awhetter.co.uk>
 # Contributor: Eothred <yngve.levinsen@gmail.com>
 
